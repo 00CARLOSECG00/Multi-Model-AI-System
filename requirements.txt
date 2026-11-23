@@ -1,0 +1,15 @@
+datasets
+kaggle
+matplotlib
+networkx
+numpy
+pandas
+pgmpy
+Pillow
+seaborn
+scikit-learn
+tensorflow
+torch
+torchvision
+torchxrayvision
+tqdm
